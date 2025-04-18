@@ -9,16 +9,16 @@ A simple implementation of Login, Register, Protection Web using token by using 
 ### 🖼️ Preview
 
 ✨ Dashboard  
-[Dashboard Preview](assets/images/Dashboard.png)
+[Dashboard Preview](mages/Dashboard.png)
 
 ✨ Login  
-[Login Preview](assets/images/Login.png)
+[Login Preview](images/Login.png)
 
 ✨ Register  
-[Register Preview](assets/images/Register.png)
+[Register Preview](images/Register.png)
 
 ✨ Home  
-[Home Preview](assets/images/Home.png)
+[Home Preview](images/Home.png)
 
 * * *
 
