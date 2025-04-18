@@ -9,7 +9,7 @@ A simple implementation of Login, Register, Protection Web using token by using 
 ### 🖼️ Preview
 
 ✨ Dashboard  
-[Dashboard Preview](mages/Dashboard.png)
+[Dashboard Preview](images/Dashboard.png)
 
 ✨ Login  
 [Login Preview](images/Login.png)
